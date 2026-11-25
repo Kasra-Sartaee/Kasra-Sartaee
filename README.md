@@ -10,13 +10,11 @@ I work on LLM agents for code, multi-objective search, and uncertainty in machin
 **[Multi-objective search over the decoding policy of a multi-agent LLM pipeline for automated program repair](https://github.com/Kasra-Sartaee/apr-decoding-policy-search)**<br>
 MSc dissertation, UCL. A four-stage agent pipeline (Analyzer → Repair → Verifier → Optimizer) on a 1.5B code model, whose 11 decoding and retry parameters are tuned for correctness, code complexity and measured energy. NSGA-II, random search and Bayesian optimisation (qLogNEHVI) each get the same 750-evaluation budget over five repetitions on Codeflaws (C), with transfer to RunBugRun (Python). Energy is measured with RAPL under a two-phase protocol, and no reported number is transcribed by hand.
 
-**[EchoScript: Enhancing AI Music Generation for Cinematic Scoring via Script-Aware Fine-Tuning](https://summer-symposia-proceedings.aaai.org/preprints/pdfs/389.pdf)**<br>
-With Kayvan Karim. Published in the AAAI Symposium Series. Fine-tunes MusicGen to score film scenes from their scripts.
+**[EchoScript: Enhancing AI Music Generation for Cinematic Scoring via Script-Aware Fine-Tuning](https://doi.org/10.1609/aaaiss.v6i1.36069)**<br>
+With Kayvan Karim. Published in the AAAI Symposium Series, 2025. Fine-tunes MusicGen to score film scenes from their scripts.
 
-<!-- Uncomment and add the link:
-**[SURVEY TITLE](LINK)**<br>
-CO-AUTHORS. Published in IJDSAA. A survey of uncertainty, disagreement and information fusion in AI systems.
--->
+**[Uncertainty, Disagreement, and Information Fusion in Modern AI Systems: A Comprehensive Survey](https://ijdsaa.com/index.php/welcome/article/view/327)**<br>
+With M. Q. Al-Shihani. International Journal of Data Science and Advanced Analytics, 2025.
 
 ## Projects
 
@@ -26,5 +24,4 @@ CO-AUTHORS. Published in IJDSAA. A survey of uncertainty, disagreement and infor
 
 ---
 
-[kasrasartaee.com](https://kasrasartaee.com) · [Email](mailto:kasrasartaee@yahoo.com)
-<!-- add: · [Google Scholar](LINK) · [LinkedIn](LINK) -->
+[kasrasartaee.com](https://kasrasartaee.com) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=C2L9a90AAAAJ) · [LinkedIn](https://www.linkedin.com/in/kasra-sartaee/) · [ORCID](https://orcid.org/0009-0009-4053-9557) · [Email](mailto:kasrasartaee@yahoo.com)
